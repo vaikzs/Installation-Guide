@@ -14,7 +14,7 @@ export PATH=$PATH:/home/glassfish4/bin
 ```
 ```
 vi /home/glassfish4/glassfish/domains/domain1/config/domain.xml
-Search for port 8080 and chage to 9190 and secondary port to 9191
+	Search for port 8080 and chage to 9190 and secondary port to 9191
 ```
 ```
 asadmin set server-config.network-config.protocols.protocol.http-listener-1.http.request-timeout-seconds=-1
