@@ -1,19 +1,25 @@
 # Installation Guide
+
+# Pre-requisites 
 	
-These are the commands that can you to install in unix environment. 
+These are the command line tools to be installed for configuring development environment.
 
-[HDFS](hdfs.md)
+- [HDFS](hdfs.md)
 
-[Spark](spark.md)
+- [Spark](spark.md)
 
-[Virtuoso](virtuoso.md)
+- [Virtuoso](virtuoso.md)
 
-[JDK](jdk.md)
+- [JDK](jdk.md)
 
-[Scala](scala.md)
+- [Scala](scala.md)
 
-[Tomcat](tomcat.md)
+- [Tomcat](tomcat.md)
 
-[Glassfish](glassfish.md)
+- [Glassfish](glassfish.md)
 
-[Python, Git, Maven, R, MongoDB](others.md)
+- [Python, Git, Maven, R, MongoDB](others.md)
+
+# License
+
+Roopteja © 2017
